@@ -1,0 +1,3 @@
+Create a function that takes two numbers as arguments and return their sum.
+
+**bonus: challenge yourself to find atleast 2 ways to do or write it
